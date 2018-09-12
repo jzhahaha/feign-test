@@ -2,7 +2,7 @@ spring:
   profiles:
     active: dev
   application:
-    name: test-everything
+    name: feign-test
   datasource:
     connection-timeout: 1000      #连接超时时间
     max-idle: 10
